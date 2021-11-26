@@ -17,4 +17,4 @@ DeepSuccin : Prediction of protein succinylation sites with deep learning model.
  # Prediction for your dataset
  The format should be same as the test dataset which is basically FASTA format. This model works for window size 33 only. 
  # Contact 
- Feel free to contact us if you need any help : dukka.kc@wichita.edu
+ Feel free to contact us if you need any help : dbkc@mtu.edu
